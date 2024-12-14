@@ -11,3 +11,9 @@ PYTHON
 [822_cdzbr46211@gmail.com (1).pdf](https://github.com/user-attachments/files/17249991/822_cdzbr46211%40gmail.com.1.pdf)
 
 certificado curso santander python
+
+Html
+
+![certificado html](https://github.com/user-attachments/assets/554c48e3-1bf5-4ccc-939f-34987b5c613c)
+
+Certificado curso em parceria ada+santander
