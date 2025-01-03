@@ -17,3 +17,40 @@ Html
 ![certificado html](https://github.com/user-attachments/assets/554c48e3-1bf5-4ccc-939f-34987b5c613c)
 
 Certificado curso em parceria ada+santander
+
+Css
+
+[Certificado - CSS.pdf](https://github.com/user-attachments/files/18304695/Certificado.-.CSS.pdf)
+
+Certificado curso parceria ada+santander
+
+JavaScript Basico
+
+[Certificado - Desenvolvimento Web básico com JavaScript.pdf](https://github.com/user-attachments/files/18304696/Certificado.-.Desenvolvimento.Web.basico.com.JavaScript.pdf)
+
+Certificado curso parceria ada+santander
+
+Figma inicial
+
+[Certificado - Figma para Devs.pdf](https://github.com/user-attachments/files/18304697/Certificado.-.Figma.para.Devs.pdf)
+
+Certificado curso parceria ada+santander
+
+Git e versionamento
+
+[Certificado - Git e Versionamento.pdf](https://github.com/user-attachments/files/18304698/Certificado.-.Git.e.Versionamento.pdf)
+
+Certificado curso parceria ada+santander
+
+Certificado logica de programação
+
+[Certificado - Lógica de programação básica com Javascript.pdf](https://github.com/user-attachments/files/18304699/Certificado.-.Logica.de.programacao.basica.com.Javascript.pdf)
+
+Certificado curso parceria ada+santander
+
+
+
+
+
+
+
