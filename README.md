@@ -26,25 +26,25 @@ Certificado curso parceria ada+santander
 
 JavaScript Basico
 
-[Certificado - Desenvolvimento Web básico com JavaScript.pdf](https://github.com/user-attachments/files/18304696/Certificado.-.Desenvolvimento.Web.basico.com.JavaScript.pdf)
+![desenvolvimento web js basico](https://github.com/user-attachments/assets/1957bc00-9e53-454c-b965-ce5f8fb1db9c)
 
 Certificado curso parceria ada+santander
 
 Figma inicial
 
-[Certificado - Figma para Devs.pdf](https://github.com/user-attachments/files/18304697/Certificado.-.Figma.para.Devs.pdf)
+![Figma para devs](https://github.com/user-attachments/assets/22167496-12fc-45d8-9418-c723815cb7b9)
 
 Certificado curso parceria ada+santander
 
 Git e versionamento
 
-[Certificado - Git e Versionamento.pdf](https://github.com/user-attachments/files/18304698/Certificado.-.Git.e.Versionamento.pdf)
+![git e versionamento](https://github.com/user-attachments/assets/25be8cd2-b01d-4c1f-ba4f-ff0a4fb952d3)
 
 Certificado curso parceria ada+santander
 
 Certificado logica de programação
 
-[Certificado - Lógica de programação básica com Javascript.pdf](https://github.com/user-attachments/files/18304699/Certificado.-.Logica.de.programacao.basica.com.Javascript.pdf)
+![Logica de programação basica js](https://github.com/user-attachments/assets/61bf6fa0-7b20-4667-b123-93aa589a6b36)
 
 Certificado curso parceria ada+santander
 
