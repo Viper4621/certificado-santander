@@ -20,7 +20,7 @@ Certificado curso em parceria ada+santander
 
 Css
 
-[Certificado - CSS.pdf](https://github.com/user-attachments/files/18304695/Certificado.-.CSS.pdf)
+![CSS](https://github.com/user-attachments/assets/e84d835c-e323-4a0e-ae27-03324e880d7d)
 
 Certificado curso parceria ada+santander
 
